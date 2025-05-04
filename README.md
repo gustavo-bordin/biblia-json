@@ -5,7 +5,7 @@ Também inclui os scripts em Python utilizados no processo de conversão e forma
 
 ---
 
-### 📂 Conteúdo
+## 📂 1. Conteúdo
 
 Atualmente, este repositório contém:
 
@@ -14,13 +14,13 @@ Atualmente, este repositório contém:
 
 ---
 
-### 💡 Objetivo
+## 💡 2. Objetivo
 
 Este projeto tem como objetivo fornecer versões da Bíblia em formato estruturado, prontas para uso em **qualquer tipo de aplicações**.
 
 ---
 
-### 🛠 Estrutura dos Dados
+## 🛠 3. Estrutura dos Dados
 
 Cada versão da Bíblia segue a seguinte estrutura JSON:
 
@@ -51,14 +51,14 @@ Cada versão da Bíblia segue a seguinte estrutura JSON:
 
 ---
 
-### 📜 Licença
+## 📜 4. Licença
 
 - O conteúdo da Bíblia KJV está em domínio público.  
 - Os scripts Python são disponibilizados sob a [Licença MIT](LICENSE).
 
 ---
 
-### 🚧 Futuro
+## 🚧 5. Futuro
 
 - Inclusão de outras versões da Bíblia  
 - Melhorias nos scripts de processamento  
