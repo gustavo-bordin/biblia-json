@@ -1,6 +1,7 @@
-# 📖 biblia-json
+# 📖 Biblia JSON
 
-**Coleção de versões da Bíblia em formato JSON**, organizadas para fácil acesso e uso em aplicações de qualquer natureza. Também inclui os scripts em Python utilizados no processo de conversão e formatação dos textos.
+**Coleção de versões da Bíblia em formato JSON**, organizadas para fácil acesso e uso em aplicações de qualquer natureza. 
+Também inclui os scripts em Python utilizados no processo de conversão e formatação dos textos.
 
 ## 📂 Conteúdo
 
