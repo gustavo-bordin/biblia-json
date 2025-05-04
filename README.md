@@ -47,6 +47,7 @@ Cada versão da Bíblia segue a seguinte estrutura JSON:
     // ...
   ]
 }
+```
 
 ## 🔁 Níveis de estrutura:
 
